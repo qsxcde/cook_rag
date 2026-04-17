@@ -306,6 +306,6 @@ python evaluate_rag.py
 ## 许可证与数据
 
 菜谱数据位于 `data/`，结构与版权请遵循原数据提供方说明；本仓库代码以你本地使用与二次开发为准。
-需要注意的是，data数据可以通过https://github.com/Anduin2017/HowToCook.git获取。
+需要注意的是，data数据可以通过https://github.com/Anduin2017/HowToCook.git 获取。
 将dishes数据修改为data存放在项目下即可构建知识库。
 本项目基于https://github.com/datawhalechina/all-in-rag.git 第八章源码二次开发。
